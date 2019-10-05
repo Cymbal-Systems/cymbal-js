@@ -4,11 +4,17 @@
   "description": "Cymbals is a photography management system is a ReactJS facing, NodeJS application.",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
   },
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/Cymbal-Systems/cymbals-js.git"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
   },
   "author": "Paul Barry",
   "license": "ISC",
@@ -18,11 +24,25 @@
   "homepage": "https://github.com/Cymbal-Systems/cymbals-js#readme",
   "dependencies": {
     "react": "^16.10.2",
+    "react-dom": "^16.10.2",
+    "react-scripts": "3.2.0",
     "webpack": "^4.41.0"
   },
   "devDependencies": {
     "chai": "^4.2.0",
     "mocha": "^6.2.1",
     "sinon": "^7.5.0"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }
