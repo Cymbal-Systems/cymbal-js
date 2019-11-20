@@ -6,9 +6,9 @@
 A photography management system.
 
 ## Overview
-Cymbals is a user friendly web application used to help school photography companies organize their school and student data. Created using NodeJS and ReactJS, Cymbal aims to ease the pain and frustration caused by the tedious task of manually subplimenting sub-par management systems. Data merging, granual filtering, and custom reports make Cymbals the next generation school photography management system.
+Cymbals is a user friendly web application used to help school photography companies organize their school and student data. Created using NodeJS and ReactJS, Cymbals aims to ease the pain and frustration caused by the tedious task of manually subplimenting sub-par management systems. Data merging, granual filtering, and custom reports make Cymbals the next generation school photography management system.
 
-## Using Cymbal
+## Using Cymbals
 [TODO]
 
 [TODO: Include Screenshots]
